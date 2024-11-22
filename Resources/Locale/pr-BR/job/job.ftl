@@ -1,4 +1,4 @@
-job-greet-station-name = Bem vindo abordo {$stationName}.
+job-greet-station-name = Bem vindo a bordo {$stationName}.
 job-greet-introduce-job-name = Seu cargo é: {$jobName}.
 job-greet-important-disconnect-admin-notify = Você está desempenhando um papel importante para o progresso do jogo. Se você tiver que se desconectar, por favor comunique os Adms via ahelp.
 job-greet-supervisors-warning = Como {$jobName}, você reponde diretamente ao {$supervisors}. Casos especiais podem mudar isso.
